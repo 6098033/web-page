@@ -1,0 +1,12 @@
+.banner {
+  color: white;
+  background-size: cover;
+  padding: 120px 0;
+  background-position: center;
+  /* object-fit: cover; */
+}
+
+.banner p {
+  opacity: 0.7;
+  /* margin-bottom: 30px; */
+}
